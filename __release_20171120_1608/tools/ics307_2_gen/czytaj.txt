@@ -1,0 +1,8 @@
+Program generuje wszystkie mo¿liwe kombinacje wektora programuj¹cego dla uk³adu ICS307-2. Dokumentacja uk³adu dostêpna w dostarczanym pakiecie. 
+
+Najlepiej jest uruchomiæ aplikacjê za pomoc¹ dostarczonego skryptu ics307_2_gen.bat który to skrypt w razie potrzeby nale¿y zmodyfikowaæ. 
+
+Wynik obliczeñ wyœwietlany jest na konsoli. Aby zachowaæ dane wyjœciowe w skrypcie przekierowywane s¹ do pliku ics307-gen.txt
+
+Opis parametrów programu uzyskaæ mo¿na po wywo³aniu aplikacji, najlepiej za pomoc¹ przygotowanego skryptu. Szczegó³owe informacje o znaczeniu parametrów wywnioskowaæ mo¿na z dokumentacji uk³adu
+ 

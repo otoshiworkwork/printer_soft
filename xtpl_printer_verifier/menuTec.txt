@@ -1,0 +1,7 @@
+Buttons:
+a - set target temperature (default 50*C)
+k/l - decrease/increase temperature
+s - off
+d - temperature check
+f - 8 min heating cycle
+o - exit from TEC control menu

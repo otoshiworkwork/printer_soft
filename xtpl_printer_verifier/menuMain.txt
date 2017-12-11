@@ -1,0 +1,10 @@
+
+Choose menu:
+Menu 0 - Base all axis in order Z -> Y -> X -> A
+Menu 1 - 
+Menu 2 - Advanced Control
+Menu 3 - TEC Control
+Menu 4 - Measure Control
+Menu 5 - Manual Control
+Menu 6 - Save/load position
+Press 'z' to quit...

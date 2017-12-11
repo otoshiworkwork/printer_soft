@@ -1,0 +1,18 @@
+Buttons:
+Axis X - a/d
+Axis Y - w/s
+Axis Z - f/c 
+Axis A - q/e 
+Movement step - +/-
++-Vac - u/i
++-Vdc - jk
+Vdc dir - l
++-freq - n/m
+Signal ON - p
+Signal OFF - o
+STOP - space
+
+Auto mode:
+Auto dispensing - v
+Auto printing - b
+ESC - leave move control menu

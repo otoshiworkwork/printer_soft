@@ -1,0 +1,10 @@
+[Writing/loading position from file]
+Press 's' to save current position
+Press 'd' to load position
+Press 'f' to move to position from file
+Press 'h' to set position as home
+
+Auto mode:
+Press 'v' to save dispensing position for auto mode
+Press 'b' to save printing position for auto mode
+Press any other button to quit...

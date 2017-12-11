@@ -1,0 +1,17 @@
+Fast movement - dispensing position - g
+Fast movement - printing position - h
+Dispensing 1 pad - t
+Print 1 pad - y
+Z up - z
+Set relay - r
+
+
+
+Auto mode:
+Auto dispensing - v
+Auto printing - b
+
+
+STOP - space
+STATUS - enter
+ESC - leave move control menu

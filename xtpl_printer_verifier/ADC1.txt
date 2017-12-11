@@ -1,0 +1,24 @@
+Average Current:  	Calculater resistanve:  	Voltage Drop: 
+4993.71 	12.4216 	24.9686
+-4953.71 	93.2741 	-24.7686
+Average Current:  	Calculater resistanve:  	Voltage Drop: 
+4974.34 	51.4098 	24.8717
+-4933.7 	134.208 	-24.6685
+Average Current:  	Calculater resistanve:  	Voltage Drop: 
+4949.37 	102.125 	24.7469
+-4909.01 	185.178 	-24.5451
+Average Current:  	Calculater resistanve:  	Voltage Drop: 
+4901.51 	200.765 	24.5076
+-4861.33 	285.082 	-24.3066
+Average Current:  	Calculater resistanve:  	Voltage Drop: 
+4545.93 	998.671 	22.7296
+-4507.89 	1091.48 	-22.5395
+Average Current:  	Calculater resistanve:  	Voltage Drop: 
+2505 	9959.72 	12.525
+-2480.08 	10160.3 	-12.4004
+Average Current:  	Calculater resistanve:  	Voltage Drop: 
+464.895 	97549.3 	2.32448
+-452.217 	100564 	-2.26109
+Average Current:  	Calculater resistanve:  	Voltage Drop: 
+61.481 	803246 	0.307405
+-51.1845 	966842 	-0.255922

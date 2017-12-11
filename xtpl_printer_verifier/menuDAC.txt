@@ -1,0 +1,12 @@
+
+Buttons: 
+a - Signal ON
+s - Signal OFF
+d - send pulse [WORK IN PROGRESS]
+h/j - decrease/increase pulse voltage by 500
+v/b - decrease/increase pulse time by 10ns
+k/l - decrease/increase Vac by 500
+n/m - decrease/increase Vdc by 100
+q - auto-off after 60 seconds
+r - reverse DC direction
+o - leave Signal Control Menu...
